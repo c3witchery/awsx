@@ -1,0 +1,5 @@
+name: aws-crosswalk
+description: aws-crosswalk
+runtime: java
+template:
+  description: "C5 experimental deployment with  AWS EKS, CloudHSM"
